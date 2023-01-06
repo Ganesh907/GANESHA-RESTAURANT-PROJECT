@@ -21,7 +21,6 @@ The objectives of the "GANESHA RESTAURENT" is :
 	2) -  to generate the bill of the total orders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 In this application user can :
 ------------------------------
 
@@ -33,7 +32,6 @@ In this application user can :
 Note  - (Bill contains Total amount with  CGST and SGST tax charges  & current Date and Time Information).
 ****
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Login Details : 
 ----------------
 
