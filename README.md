@@ -2,13 +2,12 @@
 
 
 
+**************************************************************
+JAVA CONSOLE BASED APPLICATION PROJECT
+**************************************************************
 
-                       **************************************************************
-                                JAVA CONSOLE BASED APPLICATION PROJECT
-                       **************************************************************
-
-                                      Project Title : GANESHA RESTAURANT
-                                      **********************************
+Project Title : GANESHA RESTAURANT
+**********************************
 
 
 This is Core Java - Console Based Menu-Driven Application with MYSQL Databse.
