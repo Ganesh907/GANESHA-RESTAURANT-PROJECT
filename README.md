@@ -30,8 +30,7 @@ In this application user can :
 	3) Update food item details.
 	4) Delete food item details.
 	5) Create Bill of all orders.
-  
-Note  -      (Bill contains Total amount with  CGST and SGST tax charges  & current Date and Time Information).
+Note  - (Bill contains Total amount with  CGST and SGST tax charges  & current Date and Time Information).
 ****
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,6 +39,7 @@ Login Details :
 
 User can access this application only if user entered correct Login Details (Userame and Password).
 In this application user can :
+
 	1) Add 2 Login details (Each detail contains "Username" and "Password").
 	2) Update Login details.
 
@@ -47,8 +47,8 @@ Default Username : GANESHA   Password : GANESHA@123
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *********************************************************************************************************
-Developer : Ganesh Sambhaji Shinde
-Email ID : ganishinde907@gmail.com
+-	 Developer : Ganesh Sambhaji Shinde
+- 	 Email ID : ganishinde907@gmail.com
 *********************************************************************************************************
 				                THANK YOU....!
 *********************************************************************************************************
