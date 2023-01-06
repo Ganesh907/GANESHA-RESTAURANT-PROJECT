@@ -1,5 +1,5 @@
 # GANESHA-RESTAURANT-PROJECT
-This is Core Java Console Based Menu-Driven Application Project with MYSQL Database.
+
 
 
 
@@ -11,7 +11,7 @@ This is Core Java Console Based Menu-Driven Application Project with MYSQL Datab
                                                 **********************************
 
 
-This is Core Java - Console Based Menu-Driven Application with MYSQL databse.
+This is Core Java - Console Based Menu-Driven Application with MYSQL Databse.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The objectives of the "GANESHA RESTAURENT" is :
@@ -42,10 +42,9 @@ In this application user can :
 
 	1) Add 2 Login details (Each detail contains "Username" and "Password").
 	2) Update Login details.
-
-Default Username : GANESHA   Password : GANESHA@123
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Developer Details :
 *********************************************************************************************************
 -	 Developer : Ganesh Sambhaji Shinde
 - 	 Email ID : ganishinde907@gmail.com
